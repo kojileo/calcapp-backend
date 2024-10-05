@@ -1,0 +1,39 @@
+# ビルド結果
+bin/
+obj/
+
+# Visual Studioの一時ファイル
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# ReSharperの一時ファイル
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# .NET Coreの一時ファイル
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio Code の設定ファイル
+.vscode/
+
+# ログファイル
+*.log
+
+# 環境設定ファイル
+appsettings.Development.json
+appsettings.Production.json
+
+# その他の一時ファイル
+*.tmp
+*.swp
+*~
+
+# システムファイル
+.DS_Store
+Thumbs.db
